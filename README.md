@@ -11,6 +11,19 @@ School-In-A-Box is a full-stack Learning Management System (LMS) designed for ed
 The platform enables students to upload study materials, interact with an AI tutor, take quizzes, track learning progress, and receive personalized recommendations. Teachers can upload learning resources, manage quizzes, monitor attendance, and analyze student performance.
 
 ---
+# 🌐 Live Demo
+
+### 🖥️ Frontend
+https://school-in-a-box-mpsv.vercel.app
+
+### ⚙️ Backend API
+https://school-in-a-box-1.onrender.com
+
+### 📖 API Documentation
+https://school-in-a-box-1.onrender.com/docs
+
+### 💻 GitHub Repository
+https://github.com/SAMEERBASHA025/School-In-A-Box
 
 # ✨ Features
 
