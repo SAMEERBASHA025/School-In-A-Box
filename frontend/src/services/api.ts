@@ -2,7 +2,7 @@ import axios from 'axios';
 
 // Vite proxies /api to http://127.0.0.1:8000
 const api = axios.create({
-  baseURL: '/api',
+  baseURL: "https://school-in-a-box-1.onrender.com",
   headers: {
     'Content-Type': 'application/json',
   },
